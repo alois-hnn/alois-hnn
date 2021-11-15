@@ -1,5 +1,5 @@
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alois-hnn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alois-hnn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=fefefe)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alois-hnn&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 
