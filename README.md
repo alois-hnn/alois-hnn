@@ -1,6 +1,11 @@
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alois-hnn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=fefefe)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alois-hnn&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt = "Alois GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alois-hnn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=fefefe&hide_title=true" width="%"/>
+</a>
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="Alois Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alois-hnn&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true" width="35%"/>
+</a>
 
 
 ## Languages
