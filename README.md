@@ -7,7 +7,7 @@
   <img align="center" alt="Alois Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alois-hnn&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true&include_all_commits=true" width="35%"/>
 </a>
 
-
+<!--
 ## Languages
 <p float="left">
   
@@ -31,7 +31,7 @@
 </p>-->
 
 
-
+<!--
 ## Chips
 <p float="left">
   <img src="https://user-images.githubusercontent.com/84097316/141322499-8236d073-72a8-4392-bc81-8c9950306219.png" height="100">
@@ -47,3 +47,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/84097316/142158915-ceec659b-2f0d-4629-84da-954ff07d07c3.png" height="90">
 </p>
+-->
