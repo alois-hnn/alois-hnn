@@ -8,6 +8,11 @@
   <img align="center" alt="Alois Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alois-hnn&layout=compact&theme=github_dark&hide_border=true&langs_count=9&hide_title=true" width="100%"/>
 </a>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/84097316/168020363-b82c8924-60ec-4a12-b08a-26b46767dd23.png">
+  </a>
+</p>
 
 <!--
 ## Languages
