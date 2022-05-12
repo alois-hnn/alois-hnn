@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer">link</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">link</a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer">
   <img width="200" alt="image" src="https://user-images.githubusercontent.com/84097316/168020363-b82c8924-60ec-4a12-b08a-26b46767dd23.png">
   </a>
